@@ -49,6 +49,10 @@
 
 - 📧 email: lylerojentura@g.cjc.edu.ph
 - 💻 gitHub: [vixanime](https://github.com/vixanime)
+
+---
+
+[![Play Snake Game](https://i.imgur.com/79NcsUu.gif)](https://vixanime.github.io/)
   
 ---
 
