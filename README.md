@@ -52,8 +52,13 @@
 
 ---
 
-[![Play Snake Game](https://i.imgur.com/79NcsUu.gif)](https://vixanime.github.io/)
-  
+<p align="center">
+  <a href="https://vixanime.github.io/">
+    <img src="https://i.imgur.com/79NcsUu.gif" alt="Play Snake Game" />
+  </a>
+</p>
+
+
 ---
 
 <p align="center">
