@@ -16,7 +16,7 @@
 - 🦋 a shy, anxious introvert. 
 - 🎀 used to prefer dark colors but now enjoying cute things like ribbons and pastels. 
 - 🌸 proud furmom to adopted dogs and cats.
-- 🧠 and my brain hits the snooze button almost every day.
+- 🧠 my brain hits the snooze button almost every day.
 
 ---
 
