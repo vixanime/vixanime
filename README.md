@@ -51,7 +51,7 @@
 ## 📫 Contact Me
 
 - 📧 email: lylerojentura@g.cjc.edu.ph
-- 💻 gitHub: [vixanime](https://github.com/vixanime)
+- 💻 github: [vixanime](https://github.com/vixanime)
 
 ---
 
