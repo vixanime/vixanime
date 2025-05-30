@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/XAMPP-FC9C1D?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/draw.io-0052CC?style=for-the-badge&logo=draw.io&logoColor=white" alt="draw.io" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6D6D6D?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+
 </p>
 
 ---
