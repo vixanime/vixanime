@@ -15,7 +15,8 @@
 
 - 🦋 a shy, anxious introvert. 
 - 🎀 used to prefer dark colors but now enjoying cute things like ribbons and pastels. 
-- 🌸 proud furmom to adopted dogs and cats. 
+- 🌸 proud furmom to adopted dogs and cats.
+- 🧠 and my brain hits the snooze button almost every day.
 
 ---
 
@@ -36,10 +37,18 @@
 
 ---
 
+## 🎨 Design Skills & Interests
+
+- self-taught in photo and video editing.
+- experienced in creating pubmats and visual projects.  
+- passionate about combining creativity with technology.
+
+---
+
 ## 📫 Contact Me
 
-- 📧 Email: lylerojentura@g.cjc.edu.ph
-- 💻 GitHub: [vixanime](https://github.com/vixanime)
+- 📧 email: lylerojentura@g.cjc.edu.ph
+- 💻 gitHub: [vixanime](https://github.com/vixanime)
   
 ---
 
