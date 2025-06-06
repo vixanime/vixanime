@@ -63,6 +63,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://snake-play-counter.vercel.app/api/playcount" alt="Snake Game Plays" />
+</p>
+
 ---
 
 <p align="center">
