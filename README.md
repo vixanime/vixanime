@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/endpoint?url=https://snake-play-counter.vercel.app/api/visitcount" alt="Snake Game Visits" />
 </p>
 
+
 ---
 
 <p align="center">
