@@ -63,10 +63,6 @@
   </a>
 </p>
 
-<p align="center">
-  🕹️ Times Played: <img src="https://snake-play-counter.vercel.app/api/playcount" alt="Play Count" />
-</p>
-
 ---
 
 <p align="center">
