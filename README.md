@@ -2,7 +2,9 @@
   <img src="https://i.pinimg.com/originals/03/3b/7f/033b7fbbfe589c3c4bc34e6c1759fe97.gif" alt="Pastel Pink Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there! 🌸 I'm Lyle Rojen Tura 💖</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF69B4&background=FFF0F5&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%8C%B8+I'm+Lyle+Rojen+Tura+%F0%9F%92%96" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>who enjoys spending her time reading books, comics, and novels, and sleeping.</em><br />
