@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%8C%B8+I'm+Lyle+Rojen+Tura+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%8C%B8+I'm+Lyle+Rojen+Tura+%F0%9F%92%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,6 +63,9 @@
   </a>
 </p>
 
+<p align="center">
+  🕹️ Times Played: <img src="https://snake-play-counter.vercel.app/api/playcount" alt="Play Count" />
+</p>
 
 ---
 
